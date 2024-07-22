@@ -1,0 +1,7 @@
+* { font-family: Arial, Helvetica, sans-serif;  margin: 0; padding: 0; }
+div { margin: auto; text-align: center; }
+h1 { margin: auto; text-align: center;  font-size: 1.5rem; }
+button { margin-left: 0; text-align: left; }	
+p {margin: auto; text-align: center; font-size: 1rem; display: inline-block;}
+canvas {margin: auto; padding: 1rem; text-align: center;}
+
